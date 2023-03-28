@@ -1,1 +1,6 @@
 This is the first text file that i will be storing in this system using git.
+//git add <file name> it is used to add a specific file
+// git add . is used to add all the files that are present in the folder
+// git commit -m "text" it is used to commit the files in local repository
+// git status is used check the status of the file
+// git diff <file name> it is used to check the difference in the previous version and current version of the file
