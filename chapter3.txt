@@ -1,0 +1,3 @@
+git origin master it is command used to upload your current local repository to remote repository
+git merge <branch name> it is command which merges the branch that you are currently working on with the name of the branch specified in ths command.
+and write :q! to end mergin without writing merging message

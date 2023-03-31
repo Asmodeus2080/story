@@ -1,3 +1,8 @@
 git branch <branch name> it is used to make a new branch in your repository which you can merge if you like that feature in the future.
 git branch is used to view all the branches present in your repository and tell you on which branch are you currently working.
+<<<<<<< HEAD
 git remote origin
+=======
+git remote origin
+git checkout <branch name> it is used to switch between branches.
+>>>>>>> experimental
