@@ -1,0 +1,1 @@
+git origin master it is command used to upload your current local repository to remote repository
